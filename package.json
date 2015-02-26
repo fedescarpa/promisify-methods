@@ -1,6 +1,6 @@
 {
   "name": "promisify-methods",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promisify all methods of an object",
   "main": "index.js",
   "scripts": {
