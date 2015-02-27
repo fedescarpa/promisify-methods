@@ -9,7 +9,7 @@ npm install --save promisify-methods
 ## It's very simple to use
 
 ```js
-var promisifyMethods = require(promisify-methods);
+var promisifyMethods = require('promisify-methods');
 
 var into = {
   f1: function () {
