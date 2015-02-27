@@ -9,7 +9,7 @@ npm install --save promisify-methods
 ## It's very simple to use
 
 ```js
-var promisifyMethods = require(promisify-methods);
+var promisifyMethods = require('promisify-methods');
 
 var into = {
   f1: function () {
@@ -36,10 +36,10 @@ output.f2()
 
 ```
 
-if you don't pass second argument, the first argumente become de output
+if you don't pass second argument, the first argument become the output
 
 ```js
-var promisifyMethods = require(promisify-methods);
+var promisifyMethods = require('promisify-methods');
 
 var into = {
   f1: function () {
