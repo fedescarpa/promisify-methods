@@ -39,7 +39,7 @@ output.f2()
 if you don't pass second argument, the first argument become the output
 
 ```js
-var promisifyMethods = require(promisify-methods);
+var promisifyMethods = require('promisify-methods');
 
 var into = {
   f1: function () {
