@@ -11,7 +11,7 @@ npm install --save promisify-methods
 ```js
 var promisifyMethods = require('promisify-methods');
 
-var into = {
+var input = {
   f1: function () {
     return 1;
   },
@@ -41,7 +41,7 @@ if you don't pass second argument, the first argument become the output
 ```js
 var promisifyMethods = require('promisify-methods');
 
-var into = {
+var input = {
   f1: function () {
     return 1;
   },
